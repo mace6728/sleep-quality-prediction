@@ -7,7 +7,7 @@
 - `train.py`: 主要訓練腳本，包含資料處理、模型訓練與評估流程。
 - `model.py`: 定義 `PerSQ` 模型架構 (基於 LSTM)。
 - `data_loader.py`: 負責讀取與初步處理 CSV 資料。
-- `preprocessing.py`: (如果有的話) 用於將原始 PMData 資料集轉換為 `processed_data.csv`。
+- `preprocessing.py`: 用於將原始 PMData 資料集轉換為 `processed_data.csv`。
 
 ## 環境設定
 
